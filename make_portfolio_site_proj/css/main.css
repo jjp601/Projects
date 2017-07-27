@@ -296,18 +296,6 @@ RESPONSIVE
   
 }
 
-@media screen and (max-width: 699px) {
-
-  /**********************************
-  HEADER
-  ***********************************/
-
-  header img {
-    visibility: hidden;
-  }
-
-}
-
 @media screen and (min-width: 700px) {
 
   /**********************************
